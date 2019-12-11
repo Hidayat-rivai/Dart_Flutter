@@ -1,4 +1,4 @@
-# Ruby
+# Flutter
 
 ## Description
 These are a some of applications I made to study Flutter. I started to learn flutter in 2019 from a book. These are spesification i use to learn flutter language.
